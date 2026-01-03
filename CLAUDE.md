@@ -1,13 +1,17 @@
-# WUFF Orchestrator - Technical Implementation Project
+# Koding - WuffUniversuM OS Development Project
 
 ## Project Overview
-This is the main technical implementation project for **WuffUniversuM OS** - a comprehensive AI-powered orchestration system.
+This is the **development and technical support** repository for **WuffUniversuM OS**.
+
+**Important:** This is NOT the final orchestrator - this is where we BUILD it and provide technical support.
 
 ## Project Purpose
-- Design and implement WUFF Orchestrator architecture
-- Build custom sub-agent system with specialized agents
-- Integrate MCP (Model Context Protocol) servers for memory and tools
-- Create technical infrastructure for AI-driven task orchestration
+- 🔬 Research and design WUFF Orchestrator architecture
+- 🛠️ Develop and test custom sub-agent systems
+- 📚 Create comprehensive technical documentation
+- 🧪 Experiment with MCP (Model Context Protocol) integration
+- 💡 Build knowledge base for future orchestrator implementation
+- 🔧 Provide ongoing technical support infrastructure
 
 ## Key Components
 
@@ -48,4 +52,12 @@ This project implements a custom orchestrator pattern where:
 - Documentation: See `docs/` folder
 
 ## Current Focus
-Building the foundational orchestrator system with basic sub-agent delegation capabilities.
+**Phase 1: Development Infrastructure**
+- Setting up development environment and tools
+- Creating architectural blueprints and documentation
+- Researching orchestrator patterns and sub-agent systems
+- Building proof-of-concept implementations
+
+**Phase 2: Future - Orchestrator Implementation**
+- The actual WuffUniversuM Orchestrator will be a separate project
+- This repository will provide technical support and ongoing development

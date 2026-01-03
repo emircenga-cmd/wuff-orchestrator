@@ -1,10 +1,22 @@
-# WUFF Orchestrator - Koding Project
+# Koding - Development & Technical Support Project
 
-**Technical implementation of WuffUniversuM OS orchestration system**
+**Development and technical support infrastructure for WuffUniversuM OS**
 
 ## Project Overview
 
-This project contains the technical implementation for the WUFF (WuffUniversuM) Orchestrator - an AI-powered task orchestration system built with Claude Code, custom sub-agents, and MCP (Model Context Protocol) servers.
+This is the **development and technical support** repository for building the WuffUniversuM Orchestrator system.
+
+**What is this project:**
+- 🛠️ Development environment for creating WuffUniversuM OS components
+- 📚 Technical documentation and architecture blueprints
+- 🔧 Testing ground for orchestrator patterns and sub-agent systems
+- 💡 Knowledge base and support infrastructure
+
+**What this is NOT:**
+- ❌ This is NOT the final WuffUniversuM Orchestrator (that will be a separate project)
+- ❌ This is NOT production code - it's for development and experimentation
+
+**Goal:** Use this project to BUILD the orchestrator system, then provide ongoing technical support.
 
 ## Project Structure
 
